@@ -3,7 +3,9 @@ Projetos feitos durante curso "Python Essentials 2" da Cisco Networking Academy 
 
 #⚙Projetos
 **📅Dias da semana**
+
 Permite calcular qual é o dia da semana de acordo com soma ou subtração de quantidade de dias, a partir de um dia inicial "Segunda feira"
+
 **⏳Relógio**
 Permite Visualizar um relógio em tempo real sincronizado com a hora do sistema operacional
 
