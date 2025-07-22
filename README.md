@@ -2,12 +2,10 @@
 Projetos feitos durante curso "Python Essentials 2" da Cisco Networking Academy no módulo 3 que apresenta a programação orientada a objetos em Python.
 
 #⚙Projetos
-**📅Dias da semana**
 
-Permite calcular qual é o dia da semana de acordo com soma ou subtração de quantidade de dias, a partir de um dia inicial "Segunda feira"
+**📅Dias da semana**: Permite calcular qual é o dia da semana de acordo com soma ou subtração de quantidade de dias, a partir de um dia inicial "Segunda feira"
 
-**⏳Relógio**
-Permite Visualizar um relógio em tempo real sincronizado com a hora do sistema operacional
+**⏳Relógio**: Permite Visualizar um relógio em tempo real sincronizado com a hora do sistema operacional
 
 # 🎯Habilidades Desenvolvidas
 - Criação e utilização de classes, objetos e propriedades dos objetos/classes
