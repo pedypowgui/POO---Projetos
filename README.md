@@ -1,4 +1,4 @@
-# 👾POO - Projetos com Orientação a Objetos com Python
+# 👾POO - Orientação a Objetos com Python
 Projetos feitos durante curso "Python Essentials 2" da Cisco Networking Academy no módulo 3 que apresenta a programação orientada a objetos em Python.
 
 # ⚙Projetos
